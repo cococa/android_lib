@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\my_github\android_lib\app\build\intermediates\exploded-aar\android_lib\comm_lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f26fd2f468f4e31c015603df4cda5ad4d967ace">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\classes-82ba054b5445507e6994d4eda2d0357ea578c302.jar" />
+    </item>
+    <item
+        jar="G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.databinding\library\1.0-rc1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8343ce741100717e95bd5c4ad7baa4fd31b73f1b">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\classes-5b941357bf1d9e6474883e3d6c0069bf13957c51.jar" />
+    </item>
+    <item
+        jar="G:\my_github\android_lib\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-ca6d7726092fc67bf785af9589797d8f493e3030.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.android.databinding\baseLibrary\1.0-rc1\3ff7c148dedcb5bb8e24d39292c7fdf4f92f1c1b\baseLibrary-1.0-rc1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3ff7c148dedcb5bb8e24d39292c7fdf4f92f1c1b">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\baseLibrary-1.0-rc1-a5f5a254caf962da644dc6e71197af4ea0fa7d43.jar" />
+    </item>
+    <item
+        jar="G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-2e41800efad24957f024ec9b1ec376dc5ef927e3.jar" />
+    </item>
+    <item
+        jar="D:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-033aae5f2c57b8dba2e6b9d23ad77fe9cf78a72f.jar" />
+    </item>
+    <item
+        jar="G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\classes-c1e4126c8ecf9952b8738182df92dcf22da3364e.jar" />
+    </item>
+    <item
+        jar="D:\android_sdk\extras\android\m2repository\com\android\databinding\adapters\1.0-rc1\adapters-1.0-rc1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8a82ed058e9e709740dd89c88e1be77196a71eee">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\adapters-1.0-rc1-df91b49ac546bf31f2ed62a72ddfafbceed4c3bb.jar" />
+    </item>
+    <item
+        jar="G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="G:\my_github\android_lib\app\build\intermediates\pre-dexed\debug\classes-cbbef4ab825e6d00ea17dc32c26047e092620e01.jar" />
+    </item>
+
+</items>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:2:1-28:12
 	package
 		ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:3:5-44
 		INJECTED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml
@@ -14,10 +14,11 @@ ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:2:1-21:12
 		INJECTED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml
 		INJECTED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml
 application
-ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support:support-v4:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:appcompat-v7:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
-MERGED from [android_lib:comm_lib:unspecified] G:\my_github\android_lib\app\build\intermediates\exploded-aar\android_lib\comm_lib\unspecified\AndroidManifest.xml:11:5-23:19
+MERGED from [android_lib:comm_lib:unspecified] G:\my_github\android_lib\app\build\intermediates\exploded-aar\android_lib\comm_lib\unspecified\AndroidManifest.xml:11:5-14:19
 MERGED from [com.android.support:appcompat-v7:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:22:5-20
 	android:label
@@ -44,8 +45,22 @@ category#android.intent.category.LAUNCHER
 ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.cocoa.android_lib.ActivityAnimTest
+ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:20:9-54
+	android:name
+		ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:20:19-51
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:26:5-83
+	android:name
+		ADDED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml:26:22-81
 uses-sdk
 INJECTED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.databinding:library:1.0-rc1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.databinding\library\1.0-rc1\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:appcompat-v7:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:22.2.1] G:\my_github\android_lib\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\AndroidManifest.xml:20:5-43
 MERGED from [android_lib:comm_lib:unspecified] G:\my_github\android_lib\app\build\intermediates\exploded-aar\android_lib\comm_lib\unspecified\AndroidManifest.xml:7:5-9:41
@@ -57,9 +72,3 @@ MERGED from [com.android.support:support-v4:22.2.1] G:\my_github\android_lib\app
 	android:minSdkVersion
 		INJECTED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml
 		INJECTED from G:\my_github\android_lib\app\src\main\AndroidManifest.xml
-activity#com.example.cocoa.comm_lib.MainActivity
-ADDED from [android_lib:comm_lib:unspecified] G:\my_github\android_lib\app\build\intermediates\exploded-aar\android_lib\comm_lib\unspecified\AndroidManifest.xml:14:9-22:20
-	android:label
-		ADDED from [android_lib:comm_lib:unspecified] G:\my_github\android_lib\app\build\intermediates\exploded-aar\android_lib\comm_lib\unspecified\AndroidManifest.xml:16:13-45
-	android:name
-		ADDED from [android_lib:comm_lib:unspecified] G:\my_github\android_lib\app\build\intermediates\exploded-aar\android_lib\comm_lib\unspecified\AndroidManifest.xml:15:13-67
